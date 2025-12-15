@@ -195,5 +195,6 @@ PII Scanner, PowerShell Security Tool, Aadhaar Scanner, PAN Detection, Data Priv
 
 ## 👤 Author
 
-Developed by **Ru7hra** & **ITAuditMaverick**
+Developed by **[Ru7hra](https://github.com/Ru7hra)** & **[ITAuditMaverick](https://github.com/ITAuditMaverick)**  
 Security | Privacy | Automation
+
