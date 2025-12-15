@@ -160,7 +160,6 @@ PS-PII-Scanner/
 ├── PS-PII-Scanner.ps1
 ├── README.md
 ├── LICENSE
-└── .gitignore
 ```
 
 ---
@@ -185,13 +184,6 @@ This project is licensed under the **MIT License**.
 
 You are free to use, modify, and distribute this tool, provided the license terms are followed.
 
----
-
-## 🔑 Keywords (SEO)
-
-PII Scanner, PowerShell Security Tool, Aadhaar Scanner, PAN Detection, Data Privacy Audit, DLP Tool, Compliance Automation, Information Security
-
----
 
 ## 👤 Author
 
